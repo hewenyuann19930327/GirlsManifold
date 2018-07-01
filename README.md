@@ -13,7 +13,12 @@ Install opencv, scrapy, tqdm packages in Python 3.
 3. Run the following:
 
 ```bash
+# parse sql files to get image URLs
 ./scripts/preprocess_sql.sh
+# crawl faces via Scrapy
 ./scripts/crawl_faces.sh
+# detect and crop faces
 ./scripts/process_faces.sh
+# get labels of faces via illustration2vec
+./scripts/get_face_labels.sh
 ```
