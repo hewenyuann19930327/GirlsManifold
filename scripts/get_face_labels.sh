@@ -1,5 +1,5 @@
 #!/bin/bash
-# ./illustration2vec/get_models.sh
+./illustration2vec/get_models.sh
 cp scripts/parse_labels.py ./illustration2vec
 cd ./illustration2vec
 python -m parse_labels \
