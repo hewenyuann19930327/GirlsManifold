@@ -19,7 +19,7 @@ def start_parse_labels(input_dir, output_dir):
 
         img = Image.open(image_path)
         img_info = illust2vec.estimate_plausible_tags(
-            [img], threshold=0.25)[0]['general']
+            [img], threshold=0.0)[0]['general']
         with open(output_path, 'w') as outfile:
             json.dump(img_info, outfile)
 

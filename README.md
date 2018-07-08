@@ -1,5 +1,5 @@
 # GirlsManifold
-An attempt to replicate make.girls.moe using PyTorch
+An attempt to replicate [Towards the Automatic Anime Characters Creation with Generative Adversarial Networks](https://arxiv.org/abs/1708.05509) using PyTorch
 
 
 ## Install
