@@ -4,7 +4,12 @@ An attempt to replicate [Towards the Automatic Anime Characters Creation with Ge
 
 ## Install
 
-Install opencv, scrapy, tqdm packages in Python 3.
+With Conda:
+
+```bash
+conda update environment.yml   # set up environment
+conda activate girls_manifold  # activate environment
+```
 
 ## Run
 
