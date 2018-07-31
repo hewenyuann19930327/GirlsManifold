@@ -26,4 +26,6 @@ conda activate girls_manifold  # activate environment
 ./scripts/process_faces.sh
 # get labels of faces via illustration2vec
 ./scripts/get_face_labels.sh
+# create dataset for training
+./scripts/create_dataset.sh
 ```
