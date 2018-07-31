@@ -1,0 +1,74 @@
+tags:
+  - blonde hair
+  - brown hair
+  - black hair
+  - blue hair
+  - pink hair
+  - purple hair
+  - green hair
+  - red hair
+  - silver hair
+  - white hair
+  - orange hair
+  - aqua hair
+  - gray hair
+  - long hair
+  - short hair
+  - twintails
+  - drill hair
+  - ponytail
+  - blush
+  - smile
+  - open mouth
+  - hat
+  - ribbon
+  - glasses
+  - blue eyes
+  - red eyes
+  - brown eyes
+  - green eyes
+  - purple eyes
+  - yellow eyes
+  - pink eyes
+  - aqua eyes
+  - black eyes
+  - orange eyes
+mutex:
+  hair color:
+    - blonde hair
+    - brown hair
+    - black hair
+    - blue hair
+    - pink hair
+    - purple hair
+    - green hair
+    - red hair
+    - silver hair
+    - white hair
+    - orange hair
+    - aqua hair
+    - gray hair
+  hair style:
+    - long hair
+    - short hair
+    - twintails
+    - drill hair
+    - ponytail
+  eye color:
+    - blue eyes
+    - red eyes
+    - brown eyes
+    - green eyes
+    - purple eyes
+    - yellow eyes
+    - pink eyes
+    - aqua eyes
+    - black eyes
+    - orange eyes
+threshold:
+  blush: 0.25
+  smile: 0.25
+  open mouth: 0.25
+  hat: 0.25
+  ribbon: 0.25
+  glasses: 0.25
