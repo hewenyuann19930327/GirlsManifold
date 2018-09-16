@@ -7,7 +7,7 @@ An attempt to replicate [Towards the Automatic Anime Characters Creation with Ge
 With Conda:
 
 ```bash
-conda update environment.yml   # set up environment
+conda env update -f environment.yml   # set up environment
 conda activate girls_manifold  # activate environment
 ```
 
